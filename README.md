@@ -4,7 +4,7 @@ Working on prototype
 
 ERM
 
-![ERM_flipthescript](https://user-images.githubusercontent.com/73216174/115791242-66e4f600-a3c8-11eb-994a-f8b5dc8e3705.png)
+![ERM_flipthescript](https://user-images.githubusercontent.com/73216174/115791493-c5aa6f80-a3c8-11eb-9555-e8d07e659d08.png)
 
 GUI
 
