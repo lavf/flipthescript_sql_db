@@ -4,7 +4,7 @@ Working on prototype
 
 ## ERM
 
-![ERM_flipthescript](https://user-images.githubusercontent.com/73216174/115791493-c5aa6f80-a3c8-11eb-9555-e8d07e659d08.png)
+![ERM_flipthescript(1)](https://user-images.githubusercontent.com/73216174/116127077-b3ca1480-a6c7-11eb-9572-63b014c3ea12.png)
 
 ## MySQL DB Schema
 
