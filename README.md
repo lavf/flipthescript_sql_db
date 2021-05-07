@@ -8,7 +8,7 @@ Working on prototype
 
 ## MySQL DB Schema
 
-![sql_db_schema](https://user-images.githubusercontent.com/73216174/115792225-2edeb280-a3ca-11eb-8525-b73cda1eec95.png)
+![sql_db_schema](https://user-images.githubusercontent.com/73216174/117430198-2b9a0980-af28-11eb-86d2-05b9be45b95e.png)
 
 ## GUI
 
